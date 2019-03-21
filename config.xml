@@ -26,7 +26,7 @@ Santiago Xicotencatl Martinez
 
 <!-- Plugins -->
 <plugin name="cordova-plugin-device" spec="~1.1.4"/>
-<plugin name="cordova-plugin-vibretion" spec="~2.1.3"/>
+<plugin name="cordova-plugin-vibration" spec="~2.1.3"/>
 <plugin name="cordova-plugin-dialogs" spec="~1.3.1"/>
 
 <!-- <plugin name="cordova-plugin-geolocation" source="npm"/> -->
@@ -34,6 +34,6 @@ Santiago Xicotencatl Martinez
 
 <!--Colocar icono app-->
 
-<icon src="res/android/mdpi.png">
+<icon src="res/android/mdpi.png"/>
 
 </widget>
